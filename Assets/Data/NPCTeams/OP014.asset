@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f81e7e53d6fcfd84e92dd4005fb7c538, type: 3}
+  m_Name: OP014
+  m_EditorClassIdentifier: 
+  CardId: OP014
+  TeamData:
+    gk:
+      power: 1
+      gloves: 2
+    al:
+    - offensive: 1
+      power: 1
+      shirt: 0
+    ac:
+    - offensive: 0
+      power: 3
+      shirt: 0
+    - offensive: 0
+      power: 3
+      shirt: 0
+    ar:
+    - offensive: 0
+      power: 3
+      shirt: 0
+    ml:
+    - offensive: 0
+      power: 1
+      shirt: 0
+    mc:
+    - offensive: 1
+      power: 1
+      shirt: 0
+    - offensive: 1
+      power: 1
+      shirt: 0
+    mr:
+    - offensive: 0
+      power: 2
+      shirt: 0
+    dl: []
+    dc:
+    - offensive: 1
+      power: 1
+      shirt: 0
+    - offensive: 1
+      power: 1
+      shirt: 0
+    dr: []
+  json: "{\r\n\"gk\":{\"gloves\": 2, \"power\": 1},\r\n\"al\":[\r\n],\r\n\"ac\":[\r\n 
+    {\"offensive\":true,\"power\":1,\"shirt\":0},\r\n  {\"offensive\":true,\"power\":1,\"shirt\":0}\r\n],\r\n\"ar\":[\r\n],\r\n\"ml\":[\r\n 
+    {\"offensive\":false,\"power\":1,\"shirt\":0}\r\n],\r\n\"mc\":[\r\n  {\"offensive\":true,\"power\":1,\"shirt\":0},\r\n 
+    {\"offensive\":true,\"power\":1,\"shirt\":0}\r\n],\r\n\"mr\":[\r\n  {\"offensive\":false,\"power\":2,\"shirt\":0}\r\n],\r\n\"dl\":[\r\n 
+    {\"offensive\":true,\"power\":1,\"shirt\":0}\r\n],\r\n\"dc\":[\r\n  {\"offensive\":false,\"power\":3,\"shirt\":0},\r\n 
+    {\"offensive\":false,\"power\":3,\"shirt\":0}\r\n],\r\n\"dr\":[\r\n  {\"offensive\":false,\"power\":3,\"shirt\":0}\r\n]\r\n}"
