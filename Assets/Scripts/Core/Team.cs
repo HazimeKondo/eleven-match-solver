@@ -33,17 +33,17 @@ public class Team
 
     [SerializeField] private GoalkeeperAgent gk;
     
-    [SerializeField] private Agent[] al;
-    [SerializeField] private Agent[] ac;
-    [SerializeField] private Agent[] ar;
+    [SerializeField] private Agent[] dl;
+    [SerializeField] private Agent[] dc;
+    [SerializeField] private Agent[] dr;
 
     [SerializeField] private Agent[] ml;
     [SerializeField] private Agent[] mc;
     [SerializeField] private Agent[] mr;
     
-    [SerializeField] private Agent[] dl;
-    [SerializeField] private Agent[] dc;
-    [SerializeField] private Agent[] dr;
+    [SerializeField] private Agent[] al;
+    [SerializeField] private Agent[] ac;
+    [SerializeField] private Agent[] ar;
 
     public readonly string Formation;
 

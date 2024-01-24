@@ -1078,6 +1078,12 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 3ebf272570c11b9408e5420a450cc3f1, type: 2}
   - {fileID: 11400000, guid: 033347bb2b12f904e8feb7cb131c4b74, type: 2}
   - {fileID: 11400000, guid: d486feed2496f524a89bda1034ec73b5, type: 2}
+  - {fileID: 11400000, guid: 5db3cb0bf4433dc42b6fc45cfd2b3255, type: 2}
+  - {fileID: 11400000, guid: cd413448be21f3949a0f5d0bcef90498, type: 2}
+  - {fileID: 11400000, guid: d0f4ac940901f3f41bd65ce0bc194d81, type: 2}
+  - {fileID: 11400000, guid: a3bdba7e2f854ef469790e288493b8b9, type: 2}
+  - {fileID: 11400000, guid: 38027b121a0b5f44ca73da13ce8d9404, type: 2}
+  - {fileID: 11400000, guid: 92ccea1e272394d4e9e99a86522f22d7, type: 2}
 --- !u!1 &224818469
 GameObject:
   m_ObjectHideFlags: 0
@@ -9755,7 +9761,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 933168101}
   m_HandleRect: {fileID: 933168100}
   m_Direction: 2
-  m_Value: 0
+  m_Value: 1
   m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
