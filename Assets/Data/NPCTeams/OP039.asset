@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f81e7e53d6fcfd84e92dd4005fb7c538, type: 3}
+  m_Name: OP039
+  m_EditorClassIdentifier: 
+  CardId: OP039
+  TeamData:
+    gk:
+      power: 3
+      gloves: 1
+    dl:
+    - offensive: 0
+      power: 1
+      shirt: 0
+    dc:
+    - offensive: 1
+      power: 3
+      shirt: 0
+    - offensive: 0
+      power: 3
+      shirt: 0
+    dr:
+    - offensive: 0
+      power: 2
+      shirt: 0
+    ml: []
+    mc:
+    - offensive: 0
+      power: 2
+      shirt: 0
+    - offensive: 1
+      power: 4
+      shirt: 0
+    mr: []
+    al:
+    - offensive: 1
+      power: 2
+      shirt: 0
+    ac:
+    - offensive: 0
+      power: 1
+      shirt: 0
+    - offensive: 1
+      power: 3
+      shirt: 0
+    ar:
+    - offensive: 1
+      power: 2
+      shirt: 0
